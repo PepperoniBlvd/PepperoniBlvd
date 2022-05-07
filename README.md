@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/PepperoniBlvd/PepperoniBlvd/blob/main/icons/header_1.png)
+![](https://github.com/PepperoniBlvd/PepperoniBlvd/blob/main/icons/header_.png)
 
 <!--
 **PepperoniBlvd/PepperoniBlvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
