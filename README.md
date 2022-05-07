@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/PepperoniBlvd/PepperoniBlvd/tree/main/icons/header_1.png)
+
 <!--
 **PepperoniBlvd/PepperoniBlvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
