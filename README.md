@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hello World! 👋
 
 ![](https://github.com/PepperoniBlvd/PepperoniBlvd/blob/main/icons/header_.png)
+
+* 🧐   Interested in full stack.
+* 💼   Working at Nokia as a Software Development Engineer in Test.
+* 🎓   B.S. in Computer Science.
+* 🌱   Currently learning Linux, Go & Distributed Systems.
+* 📚   Reading 《Designing Data-Intensive Application》
 
 <!--
 **PepperoniBlvd/PepperoniBlvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
