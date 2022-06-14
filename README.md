@@ -3,7 +3,7 @@
 ![](https://github.com/PepperoniBlvd/PepperoniBlvd/blob/main/icons/header_.png)
 
 * 🧐   Interested in full stack.
-* 💼   Working at Nokia as a Software Development Engineer in Test Intern.
+* 💼   Working at Nokia as a Software Engineer Intern.
 * 🎓   B.S. in Computer Science from Simon Fraser University.
 * 🌱   Currently learning Linux, Go & Distributed Systems.
 * 📚   Reading 《Designing Data-Intensive Application》
