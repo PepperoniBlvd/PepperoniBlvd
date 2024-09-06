@@ -3,8 +3,7 @@
 ![](https://github.com/PepperoniBlvd/PepperoniBlvd/blob/main/icons/header_.png)
 
 * 🧐   Interested in full stack.
-* 💼   Working at Royal Bank of Canada as a Software Engineer Intern.
-* 🎓   B.S. in Computer Science from Simon Fraser University.
+* 🎓   M.S. in Computer Science from Northeastern University.
 * 🌱   Currently learning Linux, Go & Distributed Systems.
 * 📚   Reading 《Designing Data-Intensive Application》
 
