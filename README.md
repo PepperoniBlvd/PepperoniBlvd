@@ -2,9 +2,10 @@
 
 ![](https://github.com/PepperoniBlvd/PepperoniBlvd/blob/main/icons/header_.png)
 
-* 🧐   Interested in full stack.
+* 🧐   Interested in AI infra.
 * 🎓   M.S. in Computer Science from Northeastern University.
 * 🌱   Currently learning Linux, Go & Distributed Systems.
+* 🍌   Building Agentic AI systems at Amazon
 * 📚   Reading 《Designing Data-Intensive Application》
 
 <!--
